@@ -1,0 +1,19 @@
+/*
+These are styles that make the canvas full-screen.
+It's okay if you don't understand this code yet.
+*/
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas#theCanvas {
+    width: 100vw;
+    height: 100vh;
+}
